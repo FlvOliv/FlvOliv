@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mim
 
-Tenho 21 anos e curso Ciência da Computação na **FECAP**. Mais do que estudar tecnologia, eu **construo com ela** — com foco em **IA aplicada, automação e melhoria de processos**.
+Tenho 23 anos e curso Ciência da Computação na **FECAP**. Mais do que estudar tecnologia, eu **construo com ela** — com foco em **IA aplicada, automação e melhoria de processos**.
 
 Já passei por um banco internacional (**Scotiabank**) e uma das maiores empresas de tecnologia do mundo (**Red Hat**), atuando com análise de dados, controles e operações. Em paralelo, desenvolvo projetos próprios de IA do zero à produção — porque acredito que a melhor forma de aprender é colocando algo no ar e fazendo funcionar de verdade.
 
