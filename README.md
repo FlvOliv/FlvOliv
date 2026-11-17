@@ -13,6 +13,7 @@ Estudante de Ciência da Computação na FECAP (previsão jun/2028). Construo so
 - **Robustez de conversa:** anti-loop, anti-amnésia, guarda contra preço inventado, transcrição de áudio e integração com CRM.
 - **Testes:** 453 testes automatizados, incluindo uma suíte de conformidade que roda o pipeline real com I/O externo simulado.
 - **Avaliação de LLMs:** framework que compara qualidade, custo e latência em 30 conversas sintéticas de 7 categorias, com travas de cota e custo. Rodada em andamento.
+- **Dataset do eval:** [Flaviortw/malu-briefing-eval-ptbr](https://huggingface.co/datasets/Flaviortw/malu-briefing-eval-ptbr) no Hugging Face (30 conversas sintéticas, CC-BY-4.0).
 
 Stack: Python 3.12 · FastAPI · Redis · Postgres/Alembic · WhatsApp Cloud API · Railway · pytest
 
