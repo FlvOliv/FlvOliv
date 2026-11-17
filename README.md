@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na FECAP (previsão jun/2028). Construo so
 
 ## Projeto em destaque: Malu
 
-[chatbot-agencia](https://github.com/FlvOliv/chatbot-agencia) · Assistente de WhatsApp em produção para a agência de viagens Lu Milhas & Viagens. O repo é um fork do protótipo de Gustavo Araujo (v1, maio/2026). A partir de junho/2026 evoluí o projeto e escrevi a maior parte da suíte de testes. A divisão está na seção "Origem e autoria" do README.
+[chatbot-agencia](https://github.com/FlvOliv/chatbot-agencia) · Assistente de WhatsApp em produção para a agência de viagens Lu Milhas & Viagens. O repo é um fork do protótipo de Gustavo Marcello (v1, maio/2026). A partir de junho/2026 evoluí o projeto e escrevi a maior parte da suíte de testes. A divisão está na seção "Origem e autoria" do README.
 
 - **Roteamento multi-LLM com fallback automático:** Groq → Cerebras (gpt-oss-120b) → Mistral → Gemini. A ordem segue a LGPD: o provedor que treina com os dados fica por último. Falha ou resposta vazia pula para o próximo.
 - **Extração estruturada:** briefing de viagem em JSON (29 campos e temperatura do lead), normalização de datas, quantidades e idades, e gate de completude antes do handoff para a agente humana.
